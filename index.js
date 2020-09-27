@@ -270,7 +270,7 @@ chat.sendMessage(media);
 Judul : ${judul1}
 			  
 			  
- 👾 Instagram Downloader By InsideHeartz 👾`
+ 👾 Instagram Downloader By Seorang 👾`
           );
 		  
 exec('wget "' + text + '" -O mp4/'+ namafile +'.mp4', (error, stdout, stderr) => {
@@ -367,7 +367,7 @@ msg.reply(`
  
  
  ----------------------------------
-  👾 InsideBot 2020👾
+  👾 AnbikunBot 2020👾
  
  `); 
 });
@@ -404,7 +404,7 @@ msg.reply(`
  
  
  ----------------------------------
-  👾 InsideBot 2020 👾
+  👾 AnbikunBot 2020 👾
  
  `); 
 });
@@ -447,7 +447,7 @@ Artis : *${data.artist}*
 
    ----------------------------------
 👾                          👾
-  _Ytmp3 WhatsApp By InsideBot_
+  _Ytmp3 WhatsApp By AnbikunBot_
 `);
 chat.sendMessage(media);
 });
@@ -504,7 +504,7 @@ msg.reply(
          Nama _*${nama}*_ ${h}
   ----------------------------------
 
-  _InsideBot_
+  _AnbikunBot_
 `
         );
 });
@@ -680,7 +680,7 @@ Powered by _fdcibot_
     client.sendMessage(
       msg.from,
       `  
-◦•●◉✿ ஜ۩۞۩ஜ 𝐈𝐧𝐬𝐢𝐝𝐞 𝐁𝐨𝐭 ஜ۩۞۩ஜ  ✿◉●•◦
+◦•●◉✿ ஜ۩۞۩ஜ AnbikunBot ஜ۩۞۩ஜ  ✿◉●•◦
 
   
 
@@ -692,7 +692,7 @@ Powered by _fdcibot_
 🌠 *!nama* <nama>
  *_cari arti dari namamu_* 
 
- contoh _!nama Maudy Ayunda_ 
+ contoh _!nama Dimas Anbibagus Sajiwo_ 
  
  🌠 *!quotes*
  *_random quotes dari tokoh terkenal_* 
@@ -700,7 +700,7 @@ Powered by _fdcibot_
 🌠 *!sifat* [nama] tt-mm-yy
  *_cari sifat berdasarkan nama dan tanggal lahir_* 
 
- contoh _!sifat [Maudy Ayunda] 31-08-199_ 
+ contoh _!sifat [Dimas Anbibagus Sajiwo] 11-04-2004_ 
 
 🌠 *!sial* tt mm yy
  *_cek hari apes mu_* 
@@ -710,7 +710,7 @@ Powered by _fdcibot_
 🌠 *!pasangan* namamu & pasanganmu
  *_Cek kecocokan jodoh_* 
 
- contoh _!pasangan Riska & Ali_ 
+ contoh _!pasangan Dimas & Siapa_ 
 
 🗃 *_ժօաղlօαժҽɾ* ~_
 
@@ -723,12 +723,8 @@ Powered by _fdcibot_
 🔖 *!ytmp3* <url>
  *konversi youtube ke mp3_* 
 
-
-              🅜🅞🅡🅔    
-   🅕🅔🅐🅣🅤🅡🅔🅢 🅘🅢 
-🅒🅞🅞🅜🅘🅝🅖 🅢🅞🅞🅝
-
- _Powered By_ : 💞 *InsideHeartz*
+Note : Source ini Copas awokawok
+pembuat : 💞 *InsideHeartz*
 
 `
     );
